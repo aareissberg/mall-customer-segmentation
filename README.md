@@ -24,9 +24,7 @@ The dataset contains information on mall customers including:
 - Spending Score
 
 ## Results
-The clustering model identified several distinct customer segments characterized by different spending patterns and income levels.
-
-These segments can support targeted marketing strategies for improving engagement and revenue.
+The clustering model identified several distinct customer segments characterized by different spending patterns and income levels. These segments can support targeted marketing strategies for improving engagement and revenue.
 
 Segments and Marketing Initiatives:
 - **Low Income + Low Spend**: Offer entry-level loyalty programs or bundled value deals to increase visit frequency
