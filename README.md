@@ -2,6 +2,11 @@
 
 This project applies unsupervised machine learning techniques to segment mall customers based on purchasing behavior and demographics. The goal is to identify distinct customer groups that can inform targeted marketing strategies.
 
+## Structure:
+- `Mall_Customer_Segmentation.ipynb` - Jupyter notebook containing EDA, model building, and results
+- `Mall_Customer_Segmentation.pdf` - Rendered output report
+- `Mall_Customers.csv` - Raw data
+
 ## Methodology
 This analysis includes:
 - Exploratory Data Analysis (EDA)
